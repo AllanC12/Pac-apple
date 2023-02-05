@@ -51,9 +51,9 @@ class gamePac {
     );
 
     if (int_Pac == int_food) {
-      PacImage.src = "pac-man-ab.png";
+      PacImage.src = "assets/pac-man-ab.png";
     } else {
-      PacImage.src = "pac-man-fech.png";
+      PacImage.src = "assets/pac-man-fech.png";
     }
   }
 }
